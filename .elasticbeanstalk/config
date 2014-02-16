@@ -1,0 +1,13 @@
+[global]
+ApplicationName=elasticbeanstalk-samples
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=jvmoptsviaebextension
+EnvironmentTier=WebServer::Standard::1.0
+EnvironmentType=SingleInstance
+InstanceProfileName=aws-elasticbeanstalk-ec2-role
+OptionSettingFile=D:\github\elasticbeanstalk-samples\.elasticbeanstalk\optionsettings.jvmoptsviaebextension
+RdsEnabled=No
+Region=us-east-1
+ServiceEndpoint=https://elasticbeanstalk.us-east-1.amazonaws.com
+SolutionStack=64bit Amazon Linux 2013.09 running Tomcat 7 Java 7
+
